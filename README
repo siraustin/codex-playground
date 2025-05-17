@@ -1,1 +1,5 @@
-This repository contains directories for every letter of the alphabet (A-Z).
+This repository contains directories for each letter from A to Z.
+Inside every directory are two files:
+  - food.txt: a haiku referencing a food that begins with the directory letter.
+  - vibe.txt: a haiku describing a vibe that begins with the same letter.
+All haikus follow the traditional 5-7-5 syllable structure.
